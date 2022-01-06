@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android3.3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sunday_19_may_4_30pm">sunday_19_may_4_30pm</string>
+    <string name="sunny">sunny</string>
+    <string name="_49">_49</string>
+    <string name="_6_03_am">_6_03_am</string>
+    <string name="_33">_33</string>
+    <string name="_1_007mbar">_1_007mbar</string>
+    <string name="_7_05pm">_7_05pm</string>
+    <string name="_35_c">_35_c</string>
+    <string name="_27_c">_27_c</string>
+    <string name="_34km_h">_34km_h</string>
+    <string name="_13h_1m">_13h_1m</string>
+    <string name="main_btn">main_btn</string>
+    <string name="logo">logo</string>
+</resources>
