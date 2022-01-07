@@ -53,7 +53,7 @@ public class WeatherFragment extends BaseFragment<WeatherViewModel, FragmentWeat
             binding.maxTemperature.setText(String.valueOf(weatherModels.getMain().getTempMax()));
             binding.minTemperature.setText(String.valueOf(weatherModels.getMain().getTempMin()));
             binding.wind.setText(String.valueOf(weatherModels.getWind().getSpeed()));
-            binding.degrees.setText(String.valueOf(weatherModels.getCoord().getLat()));
+            binding.weatherTemp.setText(String.valueOf(weatherModels.getCoord().getLat()));
         });
     }
 }
